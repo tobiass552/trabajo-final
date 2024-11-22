@@ -1,0 +1,48 @@
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#titulocrea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#palabracreati{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#aminoacidos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ #boton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ form {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        max-width: 500px;
+        flex-flow: column nowrap;
+        input {
+            width: 50%;
+            padding: 16px;
+        }
+    }
+}
